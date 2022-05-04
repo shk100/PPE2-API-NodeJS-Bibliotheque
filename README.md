@@ -1,6 +1,9 @@
 # PPE2-API-NodeJS-Bibliotheque
 API Rest en NodeJS avec Express et Sequelize pour la présentation du PPE2 qui est une application Csharp de simulation de bibliotheque avec .NET
 
+Lien de documentation de l'API REST : https://aitslimanimehdi.com/doc/docapi.pdf
+
+
 Pour utiliser l'API, il faut :
 - Installer NodeJS sur le site officiel : https://nodejs.org/fr/download/
 - Cloner le git sur votre machine : https://github.com/shk100/PPE2-API-NodeJS-Bibliotheque/
